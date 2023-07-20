@@ -1,4 +1,4 @@
-# node-typescript-eslint-template
+# typescript-template
 
 ![build status](https://github.com/mykaelog/typescript-template/workflows/build/badge.svg)
 
