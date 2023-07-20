@@ -1,7 +1,5 @@
 # typescript-template
 
-![build status](https://github.com/mykaelog/typescript-template/workflows/build/badge.svg)
-
 TypeScript template repository with standard-with-typescript and ts-node.
 
 Dependabot keeps the dependencies up to date.
