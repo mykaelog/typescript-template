@@ -12,9 +12,6 @@ Dependabot keeps the dependencies up to date.
 
 Scripts:
 
-- `yarn dev` run from source, auto-restarting
-- `yarn lint` run eslint
-- `yarn lint --fix` run eslint with auto-formatting
 - `yarn start:dev` run built TS
 - `yarn start:prod` run compiled TS
 - `yarn build` build to JS
