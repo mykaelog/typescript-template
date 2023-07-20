@@ -134,3 +134,4 @@ coverage
 node_modules
 .npmrc
 *.log
+.DS_Store
